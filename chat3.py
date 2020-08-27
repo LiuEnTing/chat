@@ -1,4 +1,4 @@
-#清單分割(時間與名字黏在一起成為一個[])
+#清單分割(時間與名字黏在一起成為一個[]處理方式)
 lines = []
 with open('3.txt', 'r', encoding='utf-8-sig') as f:
 		for line in f:
